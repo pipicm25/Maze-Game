@@ -1,0 +1,1 @@
+// This prevents the player from passing through bricks.
